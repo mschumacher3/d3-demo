@@ -1,0 +1,15 @@
+/*D3 DEMO*/
+
+/*classes use . */
+.container{
+	background-color: #c7beb4;
+}
+
+/*use fill when using svg*/
+.rectangle{
+	fill: #ffffff;
+}
+
+.circles{
+	fill: #e95434;
+}
